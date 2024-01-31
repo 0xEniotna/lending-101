@@ -75,4 +75,6 @@ Extra points if you find bugs / corrections this TD can benefit from, and submit
 - Evaluator [`0xc6895dFD6A256438a83D868DCaE2AdaebeC54616`](https://goerli.etherscan.io/address/0xc6895dFD6A256438a83D868DCaE2AdaebeC54616)
 - AAVE address  [`0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210`](https://goerli.etherscan.io/address/0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210)
 
-- NEW EVALUATOR https://goerli.etherscan.io/address/0x101ac70a0fb08cccd39c8b4ecff6f091cf654a7a
+# THERE IS A BUG IN THE EVALUATOR, I'VE INSTANTIATED IT WITH THE WRONG AAVE ADDRESS
+
+- NEW EVALUATOR FOR QUESTION 9 WITH THE GOOD ADDRESS https://goerli.etherscan.io/address/0x101ac70a0fb08cccd39c8b4ecff6f091cf654a7a
