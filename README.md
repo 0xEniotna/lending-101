@@ -32,7 +32,7 @@ Your objective is to gather as many TD-AAVE-101 points as possible. Please note 
 - Create a `.env` file that contains private key for deployment, an infura API key.
 - To deploy a contract, configure a script in the [scripts folder](script). Look at the way the TD is deployed and try to iterate
 - Test your deployment locallly with `anvil` and `forge script script/your-script.s.sol --fork-url http://localhost:8545 --broadcast -vvvv`
-- Deploy on Sepolia `forge script script/deployTD.s.sol --rpc-url $sepolia_url --broadcast -vvvv `
+- Deploy on Goerli `forge script script/deployTD.s.sol --rpc-url $goerli_url --broadcast -vvvv `
 
 ## Points list
 
