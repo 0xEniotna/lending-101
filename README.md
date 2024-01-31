@@ -74,3 +74,5 @@ Extra points if you find bugs / corrections this TD can benefit from, and submit
 - Points contracts [`0x482749F0578D0c8b067865a4eA49B5ef220c456B`](https://goerli.etherscan.io/address/0x482749F0578D0c8b067865a4eA49B5ef220c456B)
 - Evaluator [`0xc6895dFD6A256438a83D868DCaE2AdaebeC54616`](https://goerli.etherscan.io/address/0xc6895dFD6A256438a83D868DCaE2AdaebeC54616)
 - AAVE address  [`0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210`](https://goerli.etherscan.io/address/0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210)
+
+- NEW EVALUATOR https://goerli.etherscan.io/address/0x101ac70a0fb08cccd39c8b4ecff6f091cf654a7a
